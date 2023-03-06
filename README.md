@@ -2,12 +2,12 @@
 
 Criando a estrutura de uma tabela; realizando consultas; adicionando dados no banco; atualizando e apagando dados; filtrando os registros; ordenando os dados; e juntando registros de tabelas.
 
-1. [Primeiros passos com PostgreSQL]()
-2. [Executando operações CRUD]()
-3. [Consultas com filtros]()
-4. [Trabalhando com relacionamentos]()
-5. [Usando CASCADE]()
-6. [Avançando com consultas]()
+1. [Primeiros passos com PostgreSQL](#1-primeiros-passos-com-postgresql)
+2. [Executando operações CRUD](#2-executando-operações-crud)
+3. [Consultas com filtros](#3-consultas-com-filtros)
+4. [Trabalhando com relacionamentos](#4-trabalhando-com-relacionamentos)
+5. [Usando CASCADE](#5-usando-cascade)
+6. [Avançando com consultas](#6-avançando-com-consultas)
 
 Saiba mais sobre o curso [aqui](https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos) ou acompanhe minhas anotações abaixo. ⬇️
 
